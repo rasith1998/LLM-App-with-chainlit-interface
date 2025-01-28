@@ -1,6 +1,6 @@
 # LLM-Apps-with-Chainlit
 
-# Chainlit demo
+# Chainlit
 
 Chainlit is like Streamlit for LLM app development :)
 
